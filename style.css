@@ -1,0 +1,14 @@
+body {
+	background-color:#122C34;
+}
+
+.container {
+	background-color:#4EA5D9;
+}
+h1 {
+	font-family: sans-serif;
+}
+img {
+max-height:150px;
+max-width:150px;
+}
